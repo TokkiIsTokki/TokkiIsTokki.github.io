@@ -8,7 +8,7 @@
 title: 제목
 
 # 사이트에 표시 될 닉네임
-author: 이름 
+author: 토끼 로그저장소 
 
 # --- 상단에 표시될 메뉴 이름들 --- #
 
@@ -22,7 +22,7 @@ navbar-links:
 
 # 상단에 보여질 아바타 이미지입니다. 정사각형 이미지에 최적화
 # 이미지를 표시하지 않으려면 아래 줄을 모두 지워주세요.
-avatar: "/assets/img/avatar-icon.png"
+avatar: "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FS0vMp%2FbtsJGOoGINC%2FKsH67Kr2KuIQIO9uwuzrJ0%2Fimg.png"
 
 # 아바타 이미지를 둥글게 만들어 줍니다. 해제하려면 true를 false로 바꿔주세요.
 round-avatar: true
@@ -38,7 +38,7 @@ round-avatar: true
 # 사용하지 않으려면 코드 맨 앞쪽에 '#' 을 붙이고 띄어쓰기 해주세요.
 # 사용하려면 반대로 # 을 지워주세요.
 social-network-links:
-  email: "someone@example.com"
+#  email: "someone@example.com"
 #  facebook: deanattali
 #  github: daattali
 #  twitter: daattali
